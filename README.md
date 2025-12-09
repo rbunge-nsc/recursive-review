@@ -16,5 +16,5 @@ Conventional Computer Science education (linear coursework) leans heavilty into 
 
 ### Cynefin and the Chaotic
 
-Another inspiration behind non-linear learning is the work of [**Cynefin**](https://www.complexsystemsframeworks.ca/framework/cynefin/) founder Dave Snowden on how to navigate the domains of the **complex** and the **chaotic**.  Linear methods generally work well for the **simple** and the **complicated**. But chaos and complexity require more. In particular, they require a direct **action learning** approach, such us represented in the model presented here. 
+Another inspiration behind non-linear learning is the work of [**Cynefin**](https://www.complexsystemsframeworks.ca/framework/cynefin/) founder Dave Snowden on how to navigate the domains of the **complex** and the **chaotic**.  Linear methods generally work well for the **simple** and the **complicated**. But chaos and complexity require more. In particular, they require a direct **action learning** approach, such as represented in the model presented here. 
 

@@ -34,6 +34,6 @@ The research program that brought me eventually to non-linear learning was catal
 
 "I believe that combining the analytical and experiential is a richer way of knowing." *Teaching to Transgress*, p 89.
 
-"We are all subjects in history. We must return ourselves to a state of embodiment ... " - bh, *Teaching to Transgress*, p 89.
+"We are all subjects in history. We must return ourselves to a state of embodiment ... " *Teaching to Transgress*, p 89.
 
 

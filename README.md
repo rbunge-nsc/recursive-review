@@ -22,18 +22,18 @@ Another inspiration behind non-linear learning is the work of [**Cynefin**](http
 
 The research program that brought me eventually to non-linear learning was catalyzed in 2022 by a reading of bel hooks, *Teaching to Transgress*. Selected quotes from that book below all shed light on essential impulses underlying non-linear learning.
 
-"When education is the practice of freedom, students are not the only ones asked to share, to confess." Teaching to Transgress, p 21.
+"When education is the practice of freedom, students are not the only ones asked to share, to confess." *Teaching to Transgress*, p 21.
 
-"Attending school then was sheer joy. I loved being a student. I loved learning." Teaching to Transgress, p 3.
+"Attending school then was sheer joy. I loved being a student. I loved learning." *Teaching to Transgress*, p 3.
 
-"Urging all of us to open our minds and hearts so that we can grow know beyond the boundaries of what is acceptable, so that we can think and rethink ... a movement against and beyond boundaries" Teaching to Transgress, p 12.
+"Urging all of us to open our minds and hearts so that we can grow know beyond the boundaries of what is acceptable, so that we can think and rethink ... a movement against and beyond boundaries" *Teaching to Transgress*, p 12.
 
-"It is as though immersed in a project I lose all sense of myself and must then, when the work is done, rediscover who I am and where I am going." Teaching to Transgress, p 23.
+"It is as though immersed in a project I lose all sense of myself and must then, when the work is done, rediscover who I am and where I am going." *Teaching to Transgress*, p 23.
 
-"We live in chaos, uncertain about the possibility of building and sustaining community." Teaching to Transgress, p 27.
+"We live in chaos, uncertain about the possibility of building and sustaining community." *Teaching to Transgress*, p 27.
 
-"I believe that combining the analytical and experiential is a richer way of knowing." Teaching to Transgress, p 89.
+"I believe that combining the analytical and experiential is a richer way of knowing." *Teaching to Transgress*, p 89.
 
-"We are all subjects in history. We must return ourselves to a state of embodiment ... " - bh, Teaching to Transgress, p 89.
+"We are all subjects in history. We must return ourselves to a state of embodiment ... " - bh, *Teaching to Transgress*, p 89.
 
 

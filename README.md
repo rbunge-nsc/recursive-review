@@ -14,3 +14,7 @@ A very direct inspiration for the notion of recursive, non-linear learning is th
 
 Conventional Comnputer Science education (linear coursework) leans heavilty into the propositional (factual knowledge) and the procedural (step-by-step learning on core technologies). All of that is very necessary. But it may lack perspectival context ("why do we have to learn this?)" and most critically, the particpatory dimension vital for true understanding. "Participatory" means jumping right in and swimming in deeper waters! The non-linear learning model presented here is really an adaptation of Vervaeke's participatory, applied to the particular discipline of computer science. 
 
+### Cynefin and the Chaotic
+
+Another inspiration behind non-linear learning is the work of [**Cynefin**](https://www.complexsystemsframeworks.ca/framework/cynefin/) founder Dave Snowden on how to navigate the domains of the **complex** and the **chaotic**.  Linear methods generally work well for the **simple** and the **complicated**. But chaos and complexity require more. In particular, they require a direct **action learning** approach, such us represented in the model presented here. 
+

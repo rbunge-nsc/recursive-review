@@ -46,7 +46,7 @@ With respect to political economic systems, I generally agree with John Fullerto
 
 https://integralpermaculture.wordpress.com/peter-pogany/
 
-Pogany's model is grounded in systems theory, evolutionaray thermodyamics, and the Gaian big picture in relation to how geopolitics interacts with the biosphere. Let's just say that Mother Earth cannot be disenfranchised! Pogany's recommendation for the coming Global System 3 (which he will not see, having passed in 2014) is global cooperation and collaboration adjusted to our biospheric production capacites. That's the macro framing all the micro action models in the [wiki](https://github.com/rbunge-nsc/recursive-review/wiki) are pointing towards. (Others may view the macro differently, but I won't pretend that mine is a purely theoritical "view from nowhere". Nor will I pretend that I don't have view.") 
+Pogany's model is grounded in systems theory, evolutionary thermodyamics, and the Gaian big picture in relation to how geopolitics interacts with the biosphere. Let's just say that Mother Earth cannot be disenfranchised! Pogany's recommendation for the coming Global System 3 (which he will not see, having passed in 2014) is global cooperation and collaboration adjusted to our biospheric production capacites. That's the macro framing all the micro action models in the [wiki](https://github.com/rbunge-nsc/recursive-review/wiki) are pointing towards. (Others may view the macro differently, but I won't pretend that mine is a purely theoritical "view from nowhere". Nor will I pretend that I don't have view.") 
 
 ### Summary ###
 
